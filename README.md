@@ -64,7 +64,7 @@ Release 5.1
 - [Application Express, REST Services and REST Enabled SQL](https://www.youtube.com/watch?v=Sc0QnrxChLg&index=3&list=PL3S33P01ea06xoA-ux-cHSJmEgzhf2kr5) APEX Day Frankfurt 2017, Carsten Czarski
 - [Beautiful UI in APEX 5.0](https://www.youtube.com/watch?v=2uBQF7wk3zg) - APEX Connect 2015, Shakeeb Rahman 
 - [Complete Guide to Dynamic Actions](https://www.doag.org/de/home/news/aufgezeichnet-ein-kompletter-leitfaden-fuer-dynamic-actions-in-apex/detail/) - APEX Connect 2017, Matt Mulvaney 
-- [Recognizing and Preventing Security Threats in APEX Applications (Part 1)](https://www.youtube.com/watch?v=AlF5aYBwRQ0&list=PL3S33P01ea06WdgNtuFvGd-f8PvP54-g0&index=1)
+- [Security Threats in APEX (Part 1)](https://www.youtube.com/watch?v=AlF5aYBwRQ0&list=PL3S33P01ea06WdgNtuFvGd-f8PvP54-g0&index=1) and [(Part 2)](https://www.youtube.com/watch?v=5YeoW5SnJTs&list=PL3S33P01ea06WdgNtuFvGd-f8PvP54-g0&index=1) - Recognizing and Preventing Security Threats in APEX Applicationsk, ODTUG 
 - [Channel: APEX World](https://www.youtube.com/channel/UCY7t5jZ2cyZXIil1L8jfTwg)
 - [Channel: APEX Summer School 2015](https://www.youtube.com/channel/UC_x68EhK-AJMAQYbOeoINQw)
 - [Channel: Oracle Application Express](https://www.youtube.com/channel/UCEpIXFjcQIztReQNLymvYrQ)
